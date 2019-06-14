@@ -1,5 +1,5 @@
 <?php
-echo "string3";
+echo "string5";
 phpinfo();
 
 ?>
